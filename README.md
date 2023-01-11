@@ -2,7 +2,7 @@
 
 As a final project of the Computer Vision subject, taught at the University of Granada (UGR). it has been decided to tackle the [2018 Data Science Bowl](https://www.kaggle.com/competitions/data-science-bowl-2018/), published by Kaggle, which aims to detect and segment cell nuclei in a set of optical images in different experimental conditions and with different staining protocols without the need to manually adjust the segmentation parameters.
 
-We propose to address this problem by using Mask R-CNN from the open source implementation of matterport, based on Python 3, Keras and Tensorflow. The model will generate bounding boxes and segmentation masks of the different instances found in an image.
+We propose to address this problem by using Mask R-CNN from the open source implementation of [matterport](https://github.com/matterport/Mask_RCNN), based on Python 3, Keras and Tensorflow. The model will generate bounding boxes and segmentation masks of the different instances found in an image.
 
 ## Mask R-CNN
 
